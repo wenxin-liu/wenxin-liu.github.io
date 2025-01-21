@@ -19,11 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I recently completed my Master's degree in Computer Science at Birkbeck, University of London, under the supervision of Prof. Tobias Ritschel (UCL), where my research focused on the intersection of computer graphics and machine learning. In particular, applying neural networks to bounding volumes and spatial queries, shifting construction from a problem in computational geometry to a problem of optimisation. Our article, "Neural Bounding", is published at [SIGGRAPH 2024](https://s2024.siggraph.org/).
+I am a Research Scientist in the Image Synthesis and Machine Learning group at The Max Planck Institute for Informatics, collaborating with Dr. Thomas Leimkühler. My research focuses on the intersection of computer graphics, computer vision and machine learning.
 
-Alongside my academic pursuits, I am a senior engineer with a decade of industry experience. My professional expertise spans across data, infrastructure, platform, and software. In particular, I specialised extensively in Site Reliability Engineering (distributed systems, software networking, platforms, pipelines, telemetry, Linux, cloud computing) and Software Engineering (object-oriented: Go, Java, Python; Functional: Scala, Kotlin.). I contributed to and led novel projects, as well as created extensions to existing projects. Through this, I have developed a wide range of skills in research, technical design, troubleshooting, implementation, collaboration, mentorship and leadership.
+Recently, I completed my MSc Computer Science at Birkbeck, University of London, collaborating with Prof. Tobias Ritschel (University College London, UCL) on the intersection of computer graphics and machine learning, in particular, applying neural networks to bounding volumes and spatial queries. Our article, “Neural Bounding”, is published at SIGGRAPH 2024.
 
-I received my BSc (Hons) from University College London. Looking ahead, I'm interested in pursuing further research via a Ph.D. that combines computer graphics and computer vision.
+Alongside my academic pursuits, I am a senior engineer with a decade of industry experience. My professional expertise spans across data, infrastructure, platform, and software. In particular, I specialised extensively in Site Reliability Engineering (distributed systems, networking, platforms, pipelines, telemetry, Linux, cloud computing) and Software Engineering (object-oriented: Go, Java, Python; Functional: Scala, Kotlin.)
+
+I received my BSc (Hons) from University College London. Looking ahead, I’m interested in pursuing further research via a Ph.D. that combines computer graphics and computer vision.
 
 You can get in touch with me at wenxin.liu.cs[at]gmail.com.
 
